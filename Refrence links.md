@@ -1,13 +1,11 @@
 ##Check this videos 
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/embed/uw7-tU5NaYk "Everything Is AWESOME")
+[![](http://img.youtube.com/vi/uw7-tU5NaYk/0.jpg)](http://www.youtube.com/watch?v=uw7-tU5NaYk "")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uw7-tU5NaYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/4jv1pUrG0Zk/0.jpg)](http://www.youtube.com/watch?v=4jv1pUrG0Zk "")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4jv1pUrG0Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/VE0m2FLoJCk/0.jpg)](http://www.youtube.com/watch?v=VE0m2FLoJCk "")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VE0m2FLoJCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/ZVZHknMJ4N0/0.jpg)](http://www.youtube.com/watch?v=ZVZHknMJ4N0 "")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVZHknMJ4N0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Shc0LHZ17s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/5Shc0LHZ17s/0.jpg)](http://www.youtube.com/watch?v=5Shc0LHZ17s "")
