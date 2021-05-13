@@ -154,7 +154,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](images/output_9_0.png)
 
 
 * It has been shown the Andrews curves are able to preserve means, distance (up to a constant) and variances. Which means that Andrews curves that are represented by functions close together suggest that the corresponding data points will also be close together
@@ -184,7 +184,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](images/output_11_0.png)
 
 
 > Here, In the above Plots we can see the Distribution pattern of Annual Income and Age, By looking at the plots, 
@@ -215,7 +215,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](images/output_13_0.png)
 
 
 > By looking at the above pie chart which explains about the distribution of Gender in the Mall
@@ -230,7 +230,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](images/output_15_0.png)
 
 
 > This Graph shows a more Interactive Chart about the distribution of each Age Group in the Mall for more clariy about the Visitor's Age Group in the Mall.
@@ -248,7 +248,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](images/output_17_0.png)
 
 
 > Again, This is also a chart to better explain the Distribution of Each Income level, Interesting there are customers in the mall with a very much comparable freqyuency with their Annual Income ranging from 15 US Dollars to 137K US Dollars.
@@ -263,7 +263,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](images/output_19_0.png)
 
 
 > This is the Most Important Chart in the perspective of Mall, as It is very Important to have some intuition and idea about the Spending Score of the Customers Visiting the Mall.
@@ -278,7 +278,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](images/output_21_0.png)
 
 
 
@@ -290,7 +290,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](images/output_22_0.png)
 
 
 > The Above Graph for Showing the correlation between the different attributes of the Mall Customer Segementation Dataset, This Heat map reflects the most correlated features with Orange Color and least correlated features with yellow color.
@@ -307,7 +307,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](images/output_24_0.png)
 
 
 > Bi-variate Analysis between Gender and Spending Score, 
@@ -322,7 +322,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![png](images/output_26_0.png)
 
 
 > Again a Bivariate Analysis between the Gender and the Annual Income, to better visualize the Income of the different Genders.
@@ -337,7 +337,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](images/output_28_0.png)
 
 
 
@@ -354,7 +354,7 @@ plt.show()
 ```
 
 
-![png](output_29_0.png)
+![png](images/output_29_0.png)
 
 
 > The above Plot Between Annual Income and Age represented by a blue color line, and a plot between Annual Income and the Spending Score represented by a pink color. shows how Age and Spending Varies with Annual Income.
@@ -394,7 +394,7 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](images/output_35_0.png)
 
 
 **Visualizaing the Clusters**
@@ -421,7 +421,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](images/output_37_0.png)
 
 
 > This Clustering Analysis gives us a very clear insight about the different segments of the customers in the Mall. There are clearly Five segments of Customers namely Miser, General, Target, Spendthrift,  Careful based on their Annual Income and Spending Score which are reportedly the best factors/attributes to determine the segments of a customer in a Mall.
@@ -444,7 +444,7 @@ plt.show()
 ```
 
 
-![png](output_42_0.png)
+![png](images/output_42_0.png)
 
 
 **Visualizing the Clusters of Hierarchial Clustering**
@@ -473,7 +473,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![png](images/output_44_0.png)
 
 
 **Clusters of Customers Based on their Ages**
@@ -513,7 +513,7 @@ plt.show()
 ```
 
 
-![png](output_48_0.png)
+![png](images/output_48_0.png)
 
 
 
@@ -543,7 +543,7 @@ plt.show()
 ```
 
 
-![png](output_49_0.png)
+![png](images/output_49_0.png)
 
 
 >According to my own intuition by looking at the above clustering plot between the age of the customers and their corresponding spending scores, I have aggregated them into 4 different categories namely Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers. Then after getting the results we can accordingly make different marketing strategies and policies to  optimize the spending scores of the customer in the Mall.
